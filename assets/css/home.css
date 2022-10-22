@@ -1,0 +1,122 @@
+.form{
+	width: 55.5%;
+	margin-left: 25%;
+}
+#page-heading{
+	color: grey;
+	text-align: center;
+	font-family: sans-serif;
+	font-weight: 700;
+}
+.desc{
+	border: 1px solid grey;
+}
+.desc-name{
+	padding: 4px;
+	font-family: sans-serif;
+	font-weight: 700;
+	color: grey;
+}
+.desc input{
+	width: 100%;
+	border-style: none;
+	padding: 4px;
+}
+.cat{
+	border: 1px solid grey;
+	width: 28vw;
+}
+.cat-name{
+	padding: 4px;
+	font-family: sans-serif;
+	font-weight: 700;
+	color: grey;
+}
+.dropdown{
+	padding: 4px;
+}
+.btn{
+	width: 60%;
+}
+.date{
+	border: 1px solid grey;
+	width: 27.5vw;
+}
+.date-name{
+	padding: 4px;
+	font-family: sans-serif;
+	font-weight: 700;
+	color: grey;
+}
+.date input{
+	border: none;
+	width: 98%;
+	margin-left:2px;
+}
+.flex-2{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+.buttons{
+	display: flex;
+	flex-direction:row;
+	flex-wrap: wrap;
+}
+.add{
+	margin-left: 33%;
+	margin-top: 1.5rem;
+	background-color: grey;
+	color: white;
+	border: none;
+	font-family: sans-serif;
+	padding: 1rem;
+	font-weight: 700;
+}
+.delete{
+	background-color: red;
+	color: white;
+	border: none;
+	font-family: sans-serif;
+	padding: 1rem;
+	font-weight: 700;
+}
+.desc-cat{
+	margin-top: 1.5rem;
+	padding: 4px;
+	font-family: sans-serif;
+	font-weight: 700;
+	color: grey;
+}
+.list{
+	border: 1px solid grey;
+	list-style: none;
+	margin-left: -2.5rem;
+}
+.list input{
+	margin: 1rem;
+}
+.desc-down .cat-down{
+	margin-top: 1rem;
+}
+.down {
+	margin-top: -3rem;
+	margin-left: 7rem;
+	display: flex;
+	flex-direction:row ;
+}
+.down p{
+	margin-top: -3px;
+}
+.down i{
+	margin-left: -4rem;
+	padding-right: 0.7rem;
+}
+.cat-down{
+	margin-left: 90%;
+	
+}
+.desc-down{
+	margin-left: 3rem;
+	margin-top: -2.2rem;
+}
